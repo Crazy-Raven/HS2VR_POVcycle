@@ -1,0 +1,16 @@
+# Build directories
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# DLL / PDB
+*.dll
+*.pdb
+
+# Rider / JetBrains
+.idea/
+*.csproj.user
