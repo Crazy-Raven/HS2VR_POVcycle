@@ -56,7 +56,7 @@ X（JoystickButton2）	开启/关闭 第一人称模式
 
 A（JoystickButton0）	切换下一个角色 POV
 
-按键适用于 SteamVR、Virtual Desktop、Quest Link 等运行方式。
+⚠️注意：HS2VR在PCVR串流时如出现按键失效BUG，请尝试使用Virtual Desktop托盘栏右键菜单的“Launch Game...”运行游戏，从而通过VDXR启动而非Steam VR。
 
 ## **Installation | 安装方法**
 
